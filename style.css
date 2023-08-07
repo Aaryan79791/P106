@@ -1,0 +1,16 @@
+.header_div {
+    background-color: aqua;
+}
+
+.main_div{
+    background-color: bisque;
+}
+.footer_div{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: small;
+font-size: large;
+background-color: blueviolet;
+color: darkkhaki;
+font-weight: 600;
+position: absolute;
+}
